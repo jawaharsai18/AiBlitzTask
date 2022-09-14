@@ -1,0 +1,49 @@
+.searchItem{
+    background: #e1dcfe;
+    padding: 30px 20px;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+}
+.searchWrapper{
+    margin: 0 30px;
+}
+.searchItem button{
+    background-color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 5px;
+    padding: 5px 16px;
+}
+.searchItem input{
+    flex: 1;
+    border-radius: 4px;
+    border: none;
+    min-height: 40px;
+    padding-left: 20px;
+}
+.profileItem{
+    background: #fff3ea;
+    color: #888;
+    padding: 20px;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+}
+.profileWrapper{
+    margin: 0 30px;
+}
+.profile_Rht_details{
+    text-align: right;
+}
+.profile_lft_details p{
+    margin: 0;
+}
+.profile_Rht_details p{
+    margin: 0 0 5px;
+    font-size: 12px;
+}
+.profile_action_icns svg{
+    font-size: 20px;
+    color: #888;
+}

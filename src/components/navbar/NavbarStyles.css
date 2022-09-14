@@ -1,0 +1,33 @@
+.navbarMain{
+    background-color: #ffffff !important;
+    color: #646363 !important;
+    border-bottom: 1px solid #888 !important;
+    box-shadow: none !important;
+}
+.MuiAccordionSummary-root{
+    min-height: 0 !important;
+    padding:  0 !important;
+}
+.drawerMain .MuiDrawer-paper{
+    background: #e1dcfd !important;
+    border-radius: 4px;
+}
+.drawerClose{
+    justify-content: flex-start !important;
+    border-bottom: none !important;
+}
+.drawerList{
+    padding: 0 20px !important;
+}
+.drawerList li, .drawerList div{
+    color: #888;
+}
+.menuItemDropDwn{
+    background: transparent !important;
+    box-shadow: none !important;
+}
+.activeClass{
+    background: #ffffff;
+    border:1px solid  #6d59d7;
+    border-radius: 4px;
+}
